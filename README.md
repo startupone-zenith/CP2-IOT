@@ -68,6 +68,6 @@ Este documento descreve a pinagem utilizada para conectar os sensores SHT30 (tem
 
 Para auxiliar na localização física dos pinos na placa Heltec WiFi LoRa 32 V3, consulte o diagrama de pinos da placa. Abaixo está uma referência para incluir a imagem:
 
-![Diagrama de Pinos da Placa Heltec WiFi LoRa 32 V3](C:\Users\Paulin\Desktop\FIAP\IOT\img\pin.png)
+![Diagrama de Pinos da Placa Heltec WiFi LoRa 32 V3](img/pin.png)
 
 
