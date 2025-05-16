@@ -1,7 +1,7 @@
 
-# BeeTools
+# CP2 - IOT
 
-Este repositório contém o código e dados para o projeto BeeTools.
+Este repositório contém o código e dados para o projeto de IOT.
 
 ## Conteúdo do Repositório
 
